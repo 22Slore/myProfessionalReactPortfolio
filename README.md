@@ -8,9 +8,11 @@ Created a portfolio using React.
 
 ![Screenshot](reactchallengesnip.png)
 
-## Deployed Live Site
+## How to view
 
-
+Clone this repository (or fork, then clone your fork :) )
+Run npm i
+Check it out using npm start
 
 ## Installation
 
