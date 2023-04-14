@@ -6,7 +6,7 @@ Created a portfolio using React.
 
 ## Screenshots
 
-
+![Screenshot](reactchallengesnip.PNG)
 
 ## Deployed Live Site
 
